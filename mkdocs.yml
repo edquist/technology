@@ -5,6 +5,8 @@ theme:
   name: material
   custom_dir: osgthedocs
   favicon: img/favicon.ico
+  palette:
+    scheme: default
 
 extra_css:
   - css/extra.css
